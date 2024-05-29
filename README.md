@@ -1,2 +1,2 @@
 # finto
-author name - chahat 
+author name - chahat chhabra
